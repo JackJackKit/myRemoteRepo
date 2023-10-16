@@ -14,7 +14,8 @@ $jobState=$_POST['jobState'];
 	echo "message added.";
 ?>
 <<<<<<< HEAD
-<a href="./2.list.php">回工作列表87ouo 我是傑然：））</a>
+<a href="./2.list.php">回工作列表87ouo</a>
 =======
+我是傑然：））
 <a href="./2.list.php">回工作列表hihi</a>
 >>>>>>> 6d294fc (add 我是傑然)
