@@ -13,4 +13,4 @@ $jobState=$_POST['jobState'];
 	mysqli_stmt_execute($stmt);  //執行SQL
 	echo "message added.";
 ?>
-<a href="2.list.php">回工作列表</a>
+<a href="./2.list.php">回工作列表</a>
